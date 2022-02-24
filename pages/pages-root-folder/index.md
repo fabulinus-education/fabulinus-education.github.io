@@ -15,13 +15,13 @@ header:
 widget1:
   title: "Memlock Web"
   url: https://preview.memlock.io
-  image: widget-1-302x182.jpg
-  text: ''
+  image: memlock-brain-302x182.png
+  text: 'Start memlock'
 widget3:
   title: "Support"
   url: 'https://memlock.atlassian.net/servicedesk/customer/portal/1'
-  image: widget-github-303x182.jpg
-  text: ''
+  image: unsplash-support-302x182.jpg
+  text: 'Get help with memlock'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -39,3 +39,7 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+We're memlock. We're in an exciting invite-only alpha at the moment, but we've got big plans. If your school isn't already involved, feel free to get in touch using the form above.
+
+If you're a teacher or a student already using memlock, start using memlock by using the links above!

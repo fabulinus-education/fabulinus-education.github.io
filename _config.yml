@@ -17,7 +17,7 @@ slogan: 'Learn smarter'
 description: 'Memlock offers an individualised personalised learning algorithm to give students spaced repetition learning using specially curated, syllabus focussed content for exam success, and allow teachers to supervise and understand insights'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: 'Nothing here'
+credits: 'Memlock Limited is a company registered in England & Wales #13937578'
 
 # Main author of the website
 # See > authors.yml
