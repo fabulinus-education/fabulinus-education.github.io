@@ -1,0 +1,9 @@
+- menu_name: "Privacy"
+
+- name: "Privacy Policy"
+  url: "/privacy-policy"
+  title: "Privacy Policy"
+
+- name: "Children's Privacy Policy"
+  url: "/childrens-privacy-policy"
+  title: "Children Privacy Policy"

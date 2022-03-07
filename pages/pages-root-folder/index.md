@@ -4,24 +4,8 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: page-fullwidth
 
-callforaction:
-  url: https://preview.memlock.io
-  text: Memlock Web
-  style: alert
-
-header:
-widget1:
-  title: "Memlock Web"
-  url: https://preview.memlock.io
-  image: memlock-brain-302x182.png
-  text: 'Start memlock'
-widget3:
-  title: "Support"
-  url: 'https://memlock.atlassian.net/servicedesk/customer/portal/1'
-  image: unsplash-support-302x182.jpg
-  text: 'Get help with memlock'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -38,8 +22,29 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+
+memlocklink: https://preview.memlock.io/
+
 ---
 
-We're memlock. We're in an exciting invite-only alpha at the moment, but we've got big plans. If your school isn't already involved, feel free to get in touch using the form above.
+<h1 style="text-align: center;">Learn smarter</h1>
 
-If you're a teacher or a student already using memlock, start using memlock by using the links above!
+<div class="row">
+
+</div>
+<div class="small-12 large-6 columns" markdown="1">
+![a book](/images/unsplash-books-1024x683.jpg)
+</div>
+
+
+<div class="small-12 large-6 columns" markdown="1">
+
+#### Welcome
+We're memlock. We're in an exciting invite-only alpha at the moment, but we've got big plans. If your school isn't already involved, get in touch using our [contact form]({% link pages/pages-root-folder/contact.md %}).
+
+If you're a teacher or a student already using memlock, [click here to log in]({{ page.memlocklink }}).
+
+<div class="text-center">
+<a class="button large radius alert float-left" href="{{ page.memlocklink }}" target="_blank" style="text-align: center;">Open Memlock</a>
+</div>
+</div>
