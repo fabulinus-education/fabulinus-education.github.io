@@ -55,7 +55,7 @@ We might also be given your information by your school:
 
 We securely store all your data on computers called servers located in the United Kingdom. These servers are owned and run by Google Cloud. 
 
-If you ask us for help or email us, we use other servers. These are owned and run by Zoho and Atlassian.
+If you ask us for help or email us, we use other servers. These are owned and run by Zoho and Atlassian. These servers are located in Ireland and Amsterdam.
 
 We also use Google analytics. Google analytics uses servers around the world to host information about how you use the app, including in the United States. If you allow us to track your usage of the app, some data which cannot be used to identify personally you will be sent to the United States.
 

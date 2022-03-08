@@ -90,7 +90,7 @@ If we **have** been provided your data by your school, we will share any updates
 We securely store most data in data centres located in the United Kingdom. 
 
 There are exceptions to this;
-* Our email system, which uses data centres located in United States and Amsterdam.
+* Our email system, which uses data centres located in Amsterdam.
 * Our support ticketing system, which uses data centres located in Ireland.
 * Google analytics data might be stored in data centres located in the United States. If you agree to allow us to track your usage of the app, you are also consenting to allow us to send limited, non-identifiable data to the United States.
 
