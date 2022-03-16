@@ -273,5 +273,5 @@ asciidoctor:
 
 # Memlock specific
 
-memlock-web-url: https://preview.memlock.io
+memlock-web-url: https://app.memlock.io
 memlock-support-url: https://memlock.atlassian.net/servicedesk/customer/portal/1

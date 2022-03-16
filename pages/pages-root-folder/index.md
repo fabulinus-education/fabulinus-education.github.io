@@ -23,7 +23,7 @@ permalink: /index.html
 #
 homepage: true
 
-memlocklink: https://preview.memlock.io/
+memlocklink: https://app.memlock.io/
 
 ---
 
